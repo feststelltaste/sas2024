@@ -6,7 +6,7 @@ c.ServerProxy.servers = {
         'timeout': 60,
         'launcher_entry': {
             'enabled': True,
-            'title': 'Neo4j Session',
-        },
-    },
+            'title': 'Neo4j Session'
+        }
+    }
 }
