@@ -3,7 +3,7 @@
 This repository contains material for my Software Analytics workshop  @ Software Architecture Summit 2024 in Munich.
 
 ## Online data analysis platform
-To play around with the content online, please press the button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/feststelltaste/software-graph-analytics-workshop/HEAD?urlpath=%2Fnotebooks%2F)
+To play around with the content online, please press the button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/feststelltaste/sas2024/HEAD?urlpath=%2Fnotebooks%2F)
 
 ## Local installation
 
