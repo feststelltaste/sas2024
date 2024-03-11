@@ -5,6 +5,8 @@ wget http://dist.neo4j.org/neo4j-community-3.5.8-unix.tar.gz
 tar -xvf neo4j-community-3.5.8-unix.tar.gz
 rm neo4j-community-3.5.8-unix.tar.gz
 echo "dbms.connectors.default_listen_address=0.0.0.0" >> neo4j-community-3.5.8/conf/neo4j.conf
+echo "dbms.security.auth_enabled=false" >> neo4j-community-3.5.8/conf/neo4j.conf
+
 neo4j-community-3.5.8/bin/neo4j-admin set-initial-password neo4j
 mkdir -p neo4j-community-3.5.8/data/databases/graph.db
 # deactivate loading data for workshop
