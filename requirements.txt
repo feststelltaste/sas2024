@@ -1,0 +1,8 @@
+jupyter-server-proxy
+ipython-cypher
+pandas == 2.0.3
+matplotlib
+pygal
+py2neo
+neo4j
+RISE
