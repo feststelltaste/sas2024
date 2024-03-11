@@ -2,6 +2,8 @@
 
 c.ServerProxy.servers = {
     'neo4j': {
+        'command' : None,
+        'absolute_url' : True,
         'port': 7474,
         'timeout': 60,
         'launcher_entry': {
