@@ -2,6 +2,10 @@
 
 This repository contains material for my Software Analytics workshop  @ Software Architecture Summit 2024 in Munich.
 
+## Slides
+
+You can download the slides here: [Download](https://nextcloud.innoq.io/index.php/s/c9SLsMy7x6as4MN/download)
+
 ## Online data analysis platform
 To play around with the content online, please press the button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/feststelltaste/sas2024/HEAD?urlpath=%2Fnotebooks%2F)
 
