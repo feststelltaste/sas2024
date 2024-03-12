@@ -10,13 +10,14 @@ To play around with the content online, please press the button: [![Binder](http
 * https://ovh2.mybinder.org/
 * https://notebooks.gesis.org/binder/ (rather lame)
 
-After launching, you need to change the url part `lab` to `notebook`.
+You need to place the URL of this repository into the field "GitHub repository name or URL" and press the "launch" button. After launching, you need to change the url part `lab` to `notebook`.
 
 ## Local installation
 
 Please use a local installation if you want to access the Neo4j database and/or want to play around with your own data.
 
 ### Prerequisites
+- Linux-based operating system, MacOS or Windows Subsystem for Linux (wsl)
 - Java 8+ JDK installation (https://openjdk.org/install/) for running a local Neo4j graph database installation
 - Anaconda (or similar) Python-based data analysis platform (https://www.anaconda.com/products/distribution)
 
