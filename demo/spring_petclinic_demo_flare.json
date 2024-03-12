@@ -1,0 +1,345 @@
+{
+    "name": "flare",
+    "children": [{
+            "name": "src",
+            "children": [{
+                    "name": "main",
+                    "children": [{
+                            "name": "java",
+                            "children": [{
+                                    "name": "org",
+                                    "children": [{
+                                            "name": "springframework",
+                                            "children": [{
+                                                    "name": "samples",
+                                                    "children": [{
+                                                            "name": "petclinic",
+                                                            "children": [{
+                                                                    "name": "repository",
+                                                                    "children": [{
+                                                                            "name": "jdbc",
+                                                                            "children": [{
+                                                                                    "name": "JdbcOwnerRepositoryImpl.java (158.0 [27])",
+                                                                                    "size": 158.0,
+                                                                                    "color": "#b40426"
+                                                                                }, {
+                                                                                    "name": "JdbcVetRepositoryImpl.java (88.0 [20])",
+                                                                                    "size": 88.0,
+                                                                                    "color": "#f59d7e"
+                                                                                }, {
+                                                                                    "name": "JdbcVisitRepositoryImpl.java (103.0 [19])",
+                                                                                    "size": 103.0,
+                                                                                    "color": "#f7aa8c"
+                                                                                }, {
+                                                                                    "name": "JdbcPetRepositoryImpl.java (116.0 [17])",
+                                                                                    "size": 116.0,
+                                                                                    "color": "#f5c2aa"
+                                                                                }, {
+                                                                                    "name": "JdbcPetRowMapper.java (40.0 [13])",
+                                                                                    "size": 40.0,
+                                                                                    "color": "#d8dce2"
+                                                                                }, {
+                                                                                    "name": "JdbcPet.java (48.0 [8])",
+                                                                                    "size": 48.0,
+                                                                                    "color": "#9dbdff"
+                                                                                }, {
+                                                                                    "name": "JdbcVisitRowMapper.java (40.0 [8])",
+                                                                                    "size": 40.0,
+                                                                                    "color": "#9dbdff"
+                                                                                }, {
+                                                                                    "name": "JdbcPetVisitExtractor.java (53.0 [4])",
+                                                                                    "size": 53.0,
+                                                                                    "color": "#688aef"
+                                                                                }, {
+                                                                                    "name": "OneToManyResultSetExtractor.java (159.0 [2])",
+                                                                                    "size": 159.0,
+                                                                                    "color": "#506bda"
+                                                                                }, {
+                                                                                    "name": "package-info.java (6.0 [2])",
+                                                                                    "size": 6.0,
+                                                                                    "color": "#506bda"
+                                                                                }
+                                                                            ]
+                                                                        }, {
+                                                                            "name": "jpa",
+                                                                            "children": [{
+                                                                                    "name": "JpaOwnerRepositoryImpl.java (81.0 [17])",
+                                                                                    "size": 81.0,
+                                                                                    "color": "#f5c2aa"
+                                                                                }, {
+                                                                                    "name": "JpaVisitRepositoryImpl.java (64.0 [12])",
+                                                                                    "size": 64.0,
+                                                                                    "color": "#cdd9ec"
+                                                                                }, {
+                                                                                    "name": "JpaVetRepositoryImpl.java (48.0 [11])",
+                                                                                    "size": 48.0,
+                                                                                    "color": "#c3d5f4"
+                                                                                }, {
+                                                                                    "name": "JpaPetRepositoryImpl.java (63.0 [10])",
+                                                                                    "size": 63.0,
+                                                                                    "color": "#b6cefa"
+                                                                                }, {
+                                                                                    "name": "package-info.java (6.0 [2])",
+                                                                                    "size": 6.0,
+                                                                                    "color": "#506bda"
+                                                                                }
+                                                                            ]
+                                                                        }, {
+                                                                            "name": "OwnerRepository.java (63.0 [9])",
+                                                                            "size": 63.0,
+                                                                            "color": "#aac7fd"
+                                                                        }, {
+                                                                            "name": "PetRepository.java (59.0 [9])",
+                                                                            "size": 59.0,
+                                                                            "color": "#aac7fd"
+                                                                        }, {
+                                                                            "name": "VisitRepository.java (44.0 [8])",
+                                                                            "size": 44.0,
+                                                                            "color": "#9dbdff"
+                                                                        }, {
+                                                                            "name": "VetRepository.java (41.0 [8])",
+                                                                            "size": 41.0,
+                                                                            "color": "#9dbdff"
+                                                                        }, {
+                                                                            "name": "springdatajpa",
+                                                                            "children": [{
+                                                                                    "name": "SpringDataPetRepository.java (37.0 [7])",
+                                                                                    "size": 37.0,
+                                                                                    "color": "#90b2fe"
+                                                                                }, {
+                                                                                    "name": "SpringDataOwnerRepository.java (41.0 [6])",
+                                                                                    "size": 41.0,
+                                                                                    "color": "#82a6fb"
+                                                                                }, {
+                                                                                    "name": "SpringDataVisitRepository.java (29.0 [5])",
+                                                                                    "size": 29.0,
+                                                                                    "color": "#7699f6"
+                                                                                }, {
+                                                                                    "name": "SpringDataVetRepository.java (29.0 [4])",
+                                                                                    "size": 29.0,
+                                                                                    "color": "#688aef"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }, {
+                                                                    "name": "web",
+                                                                    "children": [{
+                                                                            "name": "OwnerController.java (135.0 [23])",
+                                                                            "size": 135.0,
+                                                                            "color": "#e36b54"
+                                                                        }, {
+                                                                            "name": "PetController.java (113.0 [22])",
+                                                                            "size": 113.0,
+                                                                            "color": "#eb7d62"
+                                                                        }, {
+                                                                            "name": "VetController.java (76.0 [19])",
+                                                                            "size": 76.0,
+                                                                            "color": "#f7aa8c"
+                                                                        }, {
+                                                                            "name": "VisitController.java (94.0 [18])",
+                                                                            "size": 94.0,
+                                                                            "color": "#f7b89c"
+                                                                        }, {
+                                                                            "name": "PetValidator.java (65.0 [12])",
+                                                                            "size": 65.0,
+                                                                            "color": "#cdd9ec"
+                                                                        }, {
+                                                                            "name": "PetTypeFormatter.java (66.0 [8])",
+                                                                            "size": 66.0,
+                                                                            "color": "#9dbdff"
+                                                                        }, {
+                                                                            "name": "CrashController.java (39.0 [7])",
+                                                                            "size": 39.0,
+                                                                            "color": "#90b2fe"
+                                                                        }, {
+                                                                            "name": "package-info.java (5.0 [2])",
+                                                                            "size": 5.0,
+                                                                            "color": "#506bda"
+                                                                        }
+                                                                    ]
+                                                                }, {
+                                                                    "name": "service",
+                                                                    "children": [{
+                                                                            "name": "ClinicServiceImpl.java (113.0 [14])",
+                                                                            "size": 113.0,
+                                                                            "color": "#e1dad6"
+                                                                        }, {
+                                                                            "name": "ClinicService.java (52.0 [12])",
+                                                                            "size": 52.0,
+                                                                            "color": "#cdd9ec"
+                                                                        }
+                                                                    ]
+                                                                }, {
+                                                                    "name": "model",
+                                                                    "children": [{
+                                                                            "name": "Pet.java (111.0 [11])",
+                                                                            "size": 111.0,
+                                                                            "color": "#c3d5f4"
+                                                                        }, {
+                                                                            "name": "BaseEntity.java (47.0 [10])",
+                                                                            "size": 47.0,
+                                                                            "color": "#b6cefa"
+                                                                        }, {
+                                                                            "name": "Visit.java (121.0 [10])",
+                                                                            "size": 121.0,
+                                                                            "color": "#b6cefa"
+                                                                        }, {
+                                                                            "name": "Vets.java (43.0 [9])",
+                                                                            "size": 43.0,
+                                                                            "color": "#aac7fd"
+                                                                        }, {
+                                                                            "name": "Owner.java (153.0 [9])",
+                                                                            "size": 153.0,
+                                                                            "color": "#aac7fd"
+                                                                        }, {
+                                                                            "name": "Vet.java (78.0 [8])",
+                                                                            "size": 78.0,
+                                                                            "color": "#9dbdff"
+                                                                        }, {
+                                                                            "name": "Person.java (55.0 [7])",
+                                                                            "size": 55.0,
+                                                                            "color": "#90b2fe"
+                                                                        }, {
+                                                                            "name": "PetType.java (29.0 [7])",
+                                                                            "size": 29.0,
+                                                                            "color": "#90b2fe"
+                                                                        }, {
+                                                                            "name": "NamedEntity.java (48.0 [6])",
+                                                                            "size": 48.0,
+                                                                            "color": "#82a6fb"
+                                                                        }, {
+                                                                            "name": "Specialty.java (30.0 [5])",
+                                                                            "size": 30.0,
+                                                                            "color": "#7699f6"
+                                                                        }, {
+                                                                            "name": "package-info.java (5.0 [2])",
+                                                                            "size": 5.0,
+                                                                            "color": "#506bda"
+                                                                        }
+                                                                    ]
+                                                                }, {
+                                                                    "name": "util",
+                                                                    "children": [{
+                                                                            "name": "EntityUtils.java (57.0 [10])",
+                                                                            "size": 57.0,
+                                                                            "color": "#b6cefa"
+                                                                        }, {
+                                                                            "name": "CallMonitoringAspect.java (97.0 [8])",
+                                                                            "size": 97.0,
+                                                                            "color": "#9dbdff"
+                                                                        }
+                                                                    ]
+                                                                }, {
+                                                                    "name": "PetclinicInitializer.java (81.0 [4])",
+                                                                    "size": 81.0,
+                                                                    "color": "#688aef"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }, {
+                    "name": "test",
+                    "children": [{
+                            "name": "java",
+                            "children": [{
+                                    "name": "org",
+                                    "children": [{
+                                            "name": "springframework",
+                                            "children": [{
+                                                    "name": "samples",
+                                                    "children": [{
+                                                            "name": "petclinic",
+                                                            "children": [{
+                                                                    "name": "service",
+                                                                    "children": [{
+                                                                            "name": "AbstractClinicServiceTests.java (203.0 [21])",
+                                                                            "size": 203.0,
+                                                                            "color": "#f18d6f"
+                                                                        }, {
+                                                                            "name": "ClinicServiceJpaTests.java (19.0 [7])",
+                                                                            "size": 19.0,
+                                                                            "color": "#90b2fe"
+                                                                        }, {
+                                                                            "name": "ClinicServiceJdbcTests.java (36.0 [6])",
+                                                                            "size": 36.0,
+                                                                            "color": "#82a6fb"
+                                                                        }, {
+                                                                            "name": "ClinicServiceSpringDataJpaTests.java (17.0 [5])",
+                                                                            "size": 17.0,
+                                                                            "color": "#7699f6"
+                                                                        }
+                                                                    ]
+                                                                }, {
+                                                                    "name": "web",
+                                                                    "children": [{
+                                                                            "name": "VetControllerTests.java (79.0 [14])",
+                                                                            "size": 79.0,
+                                                                            "color": "#e1dad6"
+                                                                        }, {
+                                                                            "name": "CrashControllerTests.java (46.0 [5])",
+                                                                            "size": 46.0,
+                                                                            "color": "#7699f6"
+                                                                        }, {
+                                                                            "name": "PetTypeFormatterTests.java (81.0 [5])",
+                                                                            "size": 81.0,
+                                                                            "color": "#7699f6"
+                                                                        }, {
+                                                                            "name": "OwnerControllerTests.java (181.0 [5])",
+                                                                            "size": 181.0,
+                                                                            "color": "#7699f6"
+                                                                        }, {
+                                                                            "name": "VisitControllerTests.java (78.0 [5])",
+                                                                            "size": 78.0,
+                                                                            "color": "#7699f6"
+                                                                        }, {
+                                                                            "name": "PetControllerTests.java (120.0 [5])",
+                                                                            "size": 120.0,
+                                                                            "color": "#7699f6"
+                                                                        }
+                                                                    ]
+                                                                }, {
+                                                                    "name": "model",
+                                                                    "children": [{
+                                                                            "name": "ValidatorTests.java (45.0 [13])",
+                                                                            "size": 45.0,
+                                                                            "color": "#d8dce2"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "name": ".mvn",
+            "children": [{
+                    "name": "wrapper",
+                    "children": [{
+                            "name": "MavenWrapperDownloader.java (117.0 [1])",
+                            "size": 117.0,
+                            "color": "#455cce"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
