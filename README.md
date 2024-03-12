@@ -5,6 +5,13 @@ This repository contains material for my Software Analytics workshop  @ Software
 ## Online data analysis platform
 To play around with the content online, please press the button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/feststelltaste/sas2024/HEAD?urlpath=%2Fnotebooks%2F)
 
+### Alternatively: choose your online server
+
+* https://ovh2.mybinder.org/
+* https://notebooks.gesis.org/binder/ (rather lame)
+
+After launching, you need to change the url part `lab` to `notebook`.
+
 ## Local installation
 
 Please use a local installation if you want to access the Neo4j database and/or want to play around with your own data.
@@ -15,7 +22,7 @@ Please use a local installation if you want to access the Neo4j database and/or 
 
 ### Next steps
 - Check out this repository (`git clone https://github.com/feststelltaste/sas2024`)
-- Install all the needed dependencies for your Python environment (see `requirements.txt`)
+- Install all the needed dependencies for your Python environment (see `requirements.txt`) with pip -r `requirements.txt`
 - Execute the bash script `postBuild` (`sh ./postBuild`), which will download and configure a local Neo4j installation
 - Execute the bash script `start` (sh ./start) to start the local Neo4j server
 - Start Jupyter notebook in the repository directory (with `jupyter notebook`)
