@@ -10,7 +10,7 @@ To play around with the content online, please press the button: [![Binder](http
 * https://ovh2.mybinder.org/
 * https://notebooks.gesis.org/binder/ (rather lame)
 
-You need to place the URL of this repository into the field "GitHub repository name or URL" and press the "launch" button. After launching, you need to change the url part `lab` to `notebook`.
+You need to place the URL of this repository into the field "GitHub repository name or URL" and press the "launch" button. After launching, you need to change the url part `lab` to `notebooks`.
 
 ## Local installation
 
